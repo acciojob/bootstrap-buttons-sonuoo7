@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+body{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    margin: 20px;
+}
+#button-2{
+    color: grey;
+}
+
+#button-3 {
+    height: 50px;
+    width: 120px;
+}
+#button-5{
+    display: block;
+    width: 100vw;
+}
